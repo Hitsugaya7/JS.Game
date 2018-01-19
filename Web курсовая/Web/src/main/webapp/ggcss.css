@@ -1,0 +1,27 @@
+ul{
+  list-style: none; /*убираем маркеры списка*/
+  margin: 0; /*убираем верхнее и нижнее поле, равное 1em*/
+  padding-left: 0; /*убираем левый отступ, равный 40px*/
+  float: left
+ }
+#ee
+{
+	background-color: #D4D4D4;
+  height: 60px;
+
+}
+
+a{
+	text-decoration: none; 
+	
+}
+#rr
+{
+	float: right;
+}
+
+
+li {
+	display: inline;
+	padding: 10px;
+}
